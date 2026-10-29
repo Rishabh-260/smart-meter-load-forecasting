@@ -1,0 +1,22 @@
+{
+  "dataset_rows": 140256,
+  "client_count": 370,
+  "start": "2011-01-01 00:15:00",
+  "end": "2015-01-01 00:00:00",
+  "holdout_start": "2014-03-14 19:15:00",
+  "holdout_end": "2015-01-01 00:00:00",
+  "random_forest_recursive_MAE_kW": 1369.5078431469997,
+  "random_forest_recursive_RMSE_kW": 4524.332020412798,
+  "seasonal_naive_MAE_kW": 1203.6289833999758,
+  "seasonal_naive_RMSE_kW": 3819.9701487678253,
+  "valid_model_client_count": 7,
+  "anomaly_flag_count": 1190,
+  "anomaly_client_count": 5,
+  "anomaly_test_coverage": "all valid one-step readings in final chronological 20%",
+  "weekly_forecast_origin_count": 42,
+  "valid_forecast_points": 16506,
+  "possible_forecast_points": 1491840,
+  "forecast_point_coverage_pct": 1.11,
+  "random_forest_MAE_vs_baseline_pct": 13.8,
+  "random_forest_RMSE_vs_baseline_pct": 18.4
+}

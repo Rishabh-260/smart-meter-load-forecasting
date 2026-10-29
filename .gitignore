@@ -1,0 +1,6 @@
+# The UCI source file is large and should be downloaded separately.
+/data/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
